@@ -1,0 +1,8 @@
+# Roblox Studio local files
+*.rbxl
+*.rbxlx
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
